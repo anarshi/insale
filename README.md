@@ -1,0 +1,2 @@
+# insale
+Insale Magento Theme
