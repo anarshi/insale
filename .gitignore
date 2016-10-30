@@ -1,0 +1,9 @@
+nbproject
+public/var/cache/*
+public/var/locks/*
+public/var/log/*
+public/var/session/*
+public/downloader/.cache/*
+public/var/locks/*
+public/var/log/*
+public/var/report/*
